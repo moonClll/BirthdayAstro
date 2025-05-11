@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "BirthdayAstro",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "BirthdayAstro::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BirthdayAstro-Debug-f1f5021a1e51a5197899.json",
+					"name" : "BirthdayAstro",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "BirthdayAstro_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BirthdayAstro_autogen-Debug-19aa619a80f18325ad3b.json",
+					"name" : "BirthdayAstro_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "BirthdayAstro_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BirthdayAstro_autogen_timestamp_deps-Debug-a23340d32de0f9af591a.json",
+					"name" : "BirthdayAstro_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/qtproject/roll/build/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug",
+		"source" : "C:/qtproject/roll"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

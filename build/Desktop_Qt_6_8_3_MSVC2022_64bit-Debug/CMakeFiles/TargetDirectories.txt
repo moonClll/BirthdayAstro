@@ -1,0 +1,5 @@
+C:/qtproject/roll/build/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/CMakeFiles/BirthdayAstro.dir
+C:/qtproject/roll/build/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/CMakeFiles/edit_cache.dir
+C:/qtproject/roll/build/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/qtproject/roll/build/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/CMakeFiles/BirthdayAstro_autogen_timestamp_deps.dir
+C:/qtproject/roll/build/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/CMakeFiles/BirthdayAstro_autogen.dir

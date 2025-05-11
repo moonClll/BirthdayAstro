@@ -1,0 +1,13 @@
+# ninja log v6
+11	499	7686413277102607	BirthdayAstro_autogen/timestamp	27e22e5770f57428
+11	499	7686413277102607	BirthdayAstro_autogen/mocs_compilation.cpp	27e22e5770f57428
+11	499	7686413277102607	C:/qtproject/roll/build/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/BirthdayAstro_autogen/timestamp	27e22e5770f57428
+11	499	7686413277102607	C:/qtproject/roll/build/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/BirthdayAstro_autogen/mocs_compilation.cpp	27e22e5770f57428
+33	336	7686416735729953	BirthdayAstro_autogen/timestamp	27e22e5770f57428
+33	336	7686416735729953	BirthdayAstro_autogen/mocs_compilation.cpp	27e22e5770f57428
+33	336	7686416735729953	C:/qtproject/roll/build/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/BirthdayAstro_autogen/timestamp	27e22e5770f57428
+33	336	7686416735729953	C:/qtproject/roll/build/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/BirthdayAstro_autogen/mocs_compilation.cpp	27e22e5770f57428
+337	2187	7686416738768532	CMakeFiles/BirthdayAstro.dir/BirthdayAstro_autogen/mocs_compilation.cpp.obj	344e943dbcbfd3ec
+345	2204	7686416738844746	CMakeFiles/BirthdayAstro.dir/main.cpp.obj	9143942d14839b8
+352	2217	7686416738916748	CMakeFiles/BirthdayAstro.dir/BirthdayAstroWidget.cpp.obj	ec11c85dd4ff4c27
+2217	3016	7686416757568118	BirthdayAstro.exe	ed949f590057b21b
